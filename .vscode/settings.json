@@ -1,0 +1,9 @@
+{
+    "eslint.codeAction.showDocumentation": {
+        "enable": false
+    },
+
+        "emmet.includeLanguages": {
+           "javascript": "javascriptreact"
+        }
+}
